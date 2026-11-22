@@ -1,1 +1,0 @@
-print("Vsetko funguje....snaad...zatial")
